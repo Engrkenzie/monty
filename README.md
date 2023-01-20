@@ -188,6 +188,6 @@ Monty Files:
 
 ## Autors
 
-* **Ekpunobi Ekene** - [samuelsrmv](https://github.com/Engrkenzie)
+* **Ekpunobi Ekene** - [Kenzy](https://github.com/Engrkenzie)
 
-* **Acha Joy** - [drc288](https://github.com/vivajayce)
+* **Acha Joy** - [Joy](https://github.com/vivajayce)
