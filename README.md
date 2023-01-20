@@ -82,7 +82,7 @@ vagrant@vagrant-ubuntu-trusty-64:~/monty$ ./monty bytecodes/00.m
 vagrant@vagrant-ubuntu-trusty-64:~/monty$
 ```
 
-## Respository Contenst
+## Respository Content
 
 Monty Files:
 
